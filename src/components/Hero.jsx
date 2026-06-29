@@ -27,8 +27,8 @@ const Hero = () => {
         {/* Hero text */}
         <div className="flex flex-row justify-between items-center w-full text-white">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[80px] leading-[80px]">
-            Hi there!
-            <br className="sm:block hidden" /> I am
+            Bonjour !
+            <br className="sm:block hidden" /> Je suis
           </h1>
 
           <div className="ss:flex hidden md:mr-4 mr-0">

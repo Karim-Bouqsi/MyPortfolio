@@ -1,5 +1,8 @@
 import parthmittal from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
+import profilePhoto from "./photo_rond.png";
+import logoBK from "./bk_consulting_logo.jfif";
+import logoArimayi from "./logo-arimayi.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
@@ -81,5 +84,8 @@ export {
   placeholder,
   hackathon_curation_agent,
   kudos,
-  web3_marketing_hackathon
+  web3_marketing_hackathon,
+  profilePhoto,
+  logoBK,
+  logoArimayi,
 };

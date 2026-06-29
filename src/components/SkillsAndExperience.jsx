@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 
 export const SkillIcon = ({ icon, name }) => {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col items-center">
       <span className="text-white text-[30px] hover:text-teal-200">
         {React.createElement(icon)}
       </span>
-      <p className="font-poppins text-dimWhite text-[12px] mt-2">{name}</p>
+      <p className="font-poppins text-dimWhite text-[12px] mt-2 text-center">{name}</p>
     </div>
   );
 };
@@ -106,7 +106,7 @@ const SkillsAndExperience = () => {
   return (
     <section id="skills" className="mb-12">
       <h1 className="flex-1 font-poppins font-semibold ss:text-[55px] text-[45px] text-white ss:leading-[80px] leading-[80px]">
-        Skills & Experience
+        Compétences & Expérience
       </h1>
       <div
         className={layout.section}
