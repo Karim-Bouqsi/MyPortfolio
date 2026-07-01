@@ -312,7 +312,7 @@ export const projects = [
     link: "",
     image: placeicon,
     content:
-      "Agent IA tuteur de mathématiques basé sur la méthode Socratique, guidant l'élève sans jamais donner la réponse directement. LLM local via Ollama (Qwen 2.5 7B) avec LangChain — 100% hors-ligne, sans coût d'API.",
+      "Tuteur IA en mathématiques qui guide l'élève par questions plutôt que par réponses directes, inspiré de la méthode Socratique. Fonctionne entièrement en local, sans connexion ni coût d'API.",
     stack: [
       {
         id: "proj2-icon-1",

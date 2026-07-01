@@ -18,7 +18,6 @@ const Project = (props) => {
             {props.title}
           </h1>
           <p className="font-poppins font-normal text-dimWhite mt-3 mb-2">
-            Tech Stack
           </p>
           <div className="text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">
             <div className="flex flex-wrap gap-4">

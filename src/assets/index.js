@@ -1,6 +1,6 @@
 import parthmittal from "./parth.svg";
 import profilePic from "./profile-pic.jpg";
-import profilePhoto from "./photo_rond.png";
+import profilePhoto from "./karim.png";
 import logoBK from "./bk_consulting_logo.jfif";
 import logoArimayi from "./logo-arimayi.svg";
 import menu from "./menu.svg";
