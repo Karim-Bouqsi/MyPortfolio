@@ -28,9 +28,12 @@ import {
   SiLinux,
   SiAngular,
   SiSqlite,
+  SiGnubash,
+  SiHuggingface,
+  SiJenkins,
 } from "react-icons/si";
 
-import { DiCss3 } from "react-icons/di";
+import { DiCss3, DiJava } from "react-icons/di";
 import { BiLogoVisualStudio } from "react-icons/bi";
 
 export const resumeLink = "";
@@ -120,6 +123,16 @@ export const skills = [
         name: "PostgreSQL",
       },
       {
+        id: "pl-8",
+        icon: DiJava,
+        name: "Java",
+      },
+      {
+        id: "pl-9",
+        icon: SiGnubash,
+        name: "Bash",
+      },
+      {
         id: "pl-6",
         icon: AiFillHtml5,
         name: "HTML",
@@ -184,6 +197,16 @@ export const skills = [
         icon: SiOpenai,
         name: "N8N",
       },
+      {
+        id: "f-11",
+        icon: SiAngular,
+        name: "Angular",
+      },
+      {
+        id: "f-12",
+        icon: SiHuggingface,
+        name: "HuggingFace",
+      },
     ],
   },
   {
@@ -223,6 +246,16 @@ export const skills = [
         id: "t-7",
         icon: BiLogoVisualStudio,
         name: "VS Code",
+      },
+      {
+        id: "t-8",
+        icon: SiOpenai,
+        name: "Ollama",
+      },
+      {
+        id: "t-9",
+        icon: SiJenkins,
+        name: "Jenkins",
       },
     ],
   },
