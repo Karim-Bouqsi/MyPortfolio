@@ -571,10 +571,3 @@ export const aboutMe = {
   intro:
     "Étudiant en 3e année de BUT Informatique, passionné par l'IA, la data et l'automatisation. Je cherche une alternance pour contribuer à des projets concrets mêlant intelligence artificielle et résolution de problèmes.",
 };
-
-// The maximum number of PRs to be displayed in the Open Source Contributions section.
-export const itemsToFetch = 20;
-
-// GitHub repos to show open source contributions from.
-// Each entry is either "owner/repo" or ["owner/repo", "public-display-name"].
-export const includedRepos = [];
